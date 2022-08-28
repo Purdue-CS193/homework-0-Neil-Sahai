@@ -1,8 +1,10 @@
 # Neil Sahai's First CS193 Homework
 
+```markdown
 - I like the aspect of being taught be other students
 - The icebreakers that are there at the begining
 - How useful it is for us as programmers to learn this content
+```
 
 ## Welcome to GitHub Pages
 
